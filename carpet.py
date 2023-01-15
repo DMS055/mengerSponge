@@ -1,5 +1,6 @@
 import random
 import pygame as pg
+import moderngl as mgl
 
 WIN_SIZE = 650
 vec = pg.math.Vector2
